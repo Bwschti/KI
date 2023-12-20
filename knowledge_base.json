@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hallo",
+      "answer": "Hallo :)"
+    },
+    {
+      "question": "Wie geht es dir ?",
+      "answer": "Mir geht es gut und dir ?"
+    },
+    {
+      "question": "mir geht es auch gut",
+      "answer": "Super !"
+    }
+  ]
+}
