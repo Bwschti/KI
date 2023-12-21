@@ -44,4 +44,5 @@ def chat_bot():
                 print("Bot: Thank You! I learned a new response!")
 
 if __name__ == "__main__":
+    print("Working !!!")
     chat_bot()
